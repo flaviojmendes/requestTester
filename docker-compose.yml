@@ -1,0 +1,10 @@
+version: '2'
+services:
+  reqTester:
+      build: .
+      image: reqtester:latest
+      volumes:
+        - ".:/app/"
+      ports:
+        - "8081:4567"
+      restart: always

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reqTester.iml" filepath="$PROJECT_DIR$/.idea/modules/reqTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reqTester_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reqTester_main.iml" group="reqTester" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reqTester_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reqTester_test.iml" group="reqTester" />
+    </modules>
+  </component>
+</project>
